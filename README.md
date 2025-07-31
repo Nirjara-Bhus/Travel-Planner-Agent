@@ -1,8 +1,5 @@
 # 🧳 Travel Planner AI Agent  
-*A smart, AI-powered travel assistant built with IBM Granite and Cloud Lite*  
-
-![IBM Cloud Lite](https://img.shields.io/badge/IBM_Cloud_Lite-054ADA?style=flat&logo=ibm)  
-![GitHub](https://img.shields.io/badge/Deployed-IBM_Cloud_Agent_Lab-success)  
+*A smart, AI-powered travel assistant built with IBM Granite and Cloud Lite* 
 
 ---
 
@@ -33,12 +30,7 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 ## 🚀 Installation & Usage  
 ### Prerequisites  
 - IBM Cloud Lite account ([Sign up here](https://cloud.ibm.com/))  
-- Python 3.8+ or Node.js (if applicable)  
 
-### Steps to Run  
-1. **Clone the repository**:  
-   ```bash  
-   git clone https://github.com/your-username/travel-planner-ai.git  
 
 
 
