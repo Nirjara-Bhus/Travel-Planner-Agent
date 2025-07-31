@@ -46,6 +46,19 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 
 ---
 
+## 🖼️ Results
+
+### One
+![One](results/one.png)
+
+### Two
+![Two](results/two.png)
+
+### Three
+![Three](results/three.png)
+
+---
+
 ## ✨ WOW Factors
 Agentic AI with IBM Granite – Smart, goal-driven travel planning
 
