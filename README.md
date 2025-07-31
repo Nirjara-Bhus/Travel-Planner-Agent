@@ -33,7 +33,7 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 
 ---
 
-✨ WOW Factors
+## ✨ WOW Factors
 Agentic AI with IBM Granite – Smart, goal-driven travel planning
 
 Personalized Itineraries – Based on user budget, interests, and constraints
@@ -50,7 +50,7 @@ Cloud-Native Deployment – Built entirely on IBM Cloud Lite, lightweight and sc
 
 ---
 
-🎯 End Users
+## 🎯 End Users
 General Travelers – Vacationers, backpackers, solo or family trips
 
 Business Professionals – Optimized trip planning for meetings and events
@@ -65,7 +65,7 @@ Developers & Startups – As a foundation for travel-based AI applications
 
 --- 
 
-🔮 Future Scope
+## 🔮 Future Scope
 Mobile App Integration – Extend usability through Android/iOS platforms
 
 Multilingual Support – Expand global reach using Granite multilingual models
@@ -78,7 +78,7 @@ User History & Memory – Save preferences for personalized recurring trips
 
 Offline Mode – Enable travel planning in low or no-network areas
 
-- ** Autonomous Planning – Automate rescheduling, updates, and conflict handling in real time
+Autonomous Planning – Automate rescheduling, updates, and conflict handling in real time
 
 ---
 
