@@ -1,6 +1,5 @@
-# 🧳 Travel Planner AI Agent  
+# 🧳 Travel Planner AI Agent -By Nirjara Bhus 
 *A smart, AI-powered travel assistant built with IBM Granite and Cloud Lite* 
--**By Nirjara Bhus**
 
 ---
 
