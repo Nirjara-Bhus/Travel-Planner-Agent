@@ -81,6 +81,8 @@ Offline Mode – Enable travel planning in low or no-network areas
 Autonomous Planning – Automate rescheduling, updates, and conflict handling in real time
 
 ---
+[![Watch the demo](https://drive.google.com/thumbnail?id=1V93MBEFjWpE2r7PzBjRl9TWy7WAmcu4y)](https://drive.google.com/file/d/1V93MBEFjWpE2r7PzBjRl9TWy7WAmcu4y/view)
+
 
 
 
