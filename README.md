@@ -49,13 +49,13 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 ## 🖼️ Results
 
 ### One
-![One](results/one.png)
+![One](Results/one.png)
 
 ### Two
-![Two](results/two.png)
+![Two](Results/two.png)
 
 ### Three
-![Three](results/three.png)
+![Three](Results/three.png)
 
 ---
 
