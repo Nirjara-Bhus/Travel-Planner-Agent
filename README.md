@@ -21,7 +21,7 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 | **Category**       | **Tools/Services**                          |  
 |---------------------|--------------------------------------------|  
 | **AI/ML**           | IBM Granite, LangChain, ReAct              |  
-| **Cloud**           | IBM Cloud Lite, Watsonx AI Studio/Runtime  |  
+| **Cloud**           | IBM Cloud Lite, Watsonx AI Studio,Runtime  |  
 | **Storage**         | IBM Cloud Object Storage (COS)             |  
 | **Deployment**      | IBM Cloud Agent Lab                        |  
 
