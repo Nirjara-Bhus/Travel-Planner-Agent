@@ -38,7 +38,7 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 ---
 
 ## PPT of AICTE Project
-[![View PPT](./ppt-thumbnail.png)](https://docs.google.com/presentation/d/1Y2DiT1LV8aoOnirqCiIVrS1PXz_YQd3W/edit?usp=drive_link)
+📑 **Project Presentation**: [View PPT on Google Slides](https://docs.google.com/presentation/d/1Y2DiT1LV8aoOnirqCiIVrS1PXz_YQd3W/edit?usp=drive_link)
 
 
 ---
