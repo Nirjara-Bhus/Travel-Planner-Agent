@@ -32,6 +32,14 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 - IBM Cloud Lite account ([Sign up here](https://cloud.ibm.com/))
 
 ---
+## Watch Demo video of Travel Agent
+[![Watch the demo](https://drive.google.com/thumbnail?id=1V93MBEFjWpE2r7PzBjRl9TWy7WAmcu4y)](https://drive.google.com/file/d/1V93MBEFjWpE2r7PzBjRl9TWy7WAmcu4y/view)
+
+---
+
+## PPT of AICTE Project
+
+---
 
 ## ✨ WOW Factors
 Agentic AI with IBM Granite – Smart, goal-driven travel planning
@@ -81,7 +89,6 @@ Offline Mode – Enable travel planning in low or no-network areas
 Autonomous Planning – Automate rescheduling, updates, and conflict handling in real time
 
 ---
-[![Watch the demo](https://drive.google.com/thumbnail?id=1V93MBEFjWpE2r7PzBjRl9TWy7WAmcu4y)](https://drive.google.com/file/d/1V93MBEFjWpE2r7PzBjRl9TWy7WAmcu4y/view)
 
 
 
