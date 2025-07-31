@@ -33,23 +33,54 @@ The **Travel Planner AI Agent** simplifies trip planning by leveraging **IBM Gra
 
 ---
 
-🌟 Wow Factors
-Dynamic Itineraries: Auto-optimized schedules for delays/weather changes.
-Prompt Lab-Tuned: Natural language responses via IBM Watsonx.
-Multi-User Support: Serves travelers, agencies, and businesses.
+✨ WOW Factors
+Agentic AI with IBM Granite – Smart, goal-driven travel planning
 
-👥 End Users
-User Type	Use Case
-Families/Solo Travelers	Personalized vacation planning.
-Business Professionals	Quick work trip optimization.
-Travel Agencies	AI assistant for client itineraries.
-📊 Results
-Deployed Agent: Live demo on IBM Cloud Agent Lab.
+Personalized Itineraries – Based on user budget, interests, and constraints
 
-Key Metrics:
-90% accuracy in itinerary recommendations.
-40% faster planning vs. manual methods.
+Real-Time Data Integration – Live weather, maps, and local attractions
 
+RAG-Based Responses – Pulls relevant info from custom travel docs using Object Storage
+
+Tool-Using Agent – Can act (e.g., suggest bookings, reroute trips), not just chat
+
+Prompt Lab Tuning – Refined prompts via Watsonx.ai for natural, accurate conversations
+
+Cloud-Native Deployment – Built entirely on IBM Cloud Lite, lightweight and scalable
+
+---
+
+🎯 End Users
+General Travelers – Vacationers, backpackers, solo or family trips
+
+Business Professionals – Optimized trip planning for meetings and events
+
+Travel Agencies – As a digital assistant for faster client service
+
+Tour Operators – For automated itinerary generation and updates
+
+Hotels & Resorts – To assist guests in planning local experiences
+
+Developers & Startups – As a foundation for travel-based AI applications
+
+--- 
+
+🔮 Future Scope
+Mobile App Integration – Extend usability through Android/iOS platforms
+
+Multilingual Support – Expand global reach using Granite multilingual models
+
+Voice Interaction – Add voice-based planning using speech-to-text APIs
+
+Third-party Booking APIs – Integrate with MakeMyTrip, IRCTC, etc.
+
+User History & Memory – Save preferences for personalized recurring trips
+
+Offline Mode – Enable travel planning in low or no-network areas
+
+- ** Autonomous Planning – Automate rescheduling, updates, and conflict handling in real time
+
+---
 
 
 
