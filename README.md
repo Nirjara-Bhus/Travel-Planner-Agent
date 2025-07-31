@@ -1,5 +1,6 @@
 # 🧳 Travel Planner AI Agent  
 *A smart, AI-powered travel assistant built with IBM Granite and Cloud Lite* 
+**By Nirjara Bhus**
 
 ---
 
